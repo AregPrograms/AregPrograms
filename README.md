@@ -20,4 +20,4 @@ My name is Areg Harutyunyan, I have been programming since I was 7 years old! I 
 ### Activity
 <hr>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=AregPrograms&theme=dracula)](https://github.com/AregPrograms/github-readme-activity-graph)
+[![AregPrograms's github activity graph](https://activity-graph.herokuapp.com/graph?username=AregPrograms&theme=github)](https://github.com/AregPrograms/github-readme-activity-graph)
