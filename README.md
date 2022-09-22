@@ -1,4 +1,4 @@
-# Hey!
+# Hey! 👋
 My name is Areg Harutyunyan, I have been programming since I was 7 years old! I am mostly self-taught.
 
 ### Socials:
