@@ -1,3 +1,4 @@
+<div align="center">
 # Hey! 👋
 My name is Areg Harutyunyan, I have been programming since I was 7 years old! I am mostly self-taught.
 
@@ -21,3 +22,4 @@ My name is Areg Harutyunyan, I have been programming since I was 7 years old! I 
 <hr>
 
 [![AregPrograms's github activity graph](https://activity-graph.herokuapp.com/graph?username=AregPrograms&theme=github)](https://github.com/AregPrograms/github-readme-activity-graph)
+</div>
